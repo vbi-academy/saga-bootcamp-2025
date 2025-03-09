@@ -1,0 +1,3 @@
+[submodule "module2/digital-assets-management-app/lib/forge-std"]
+	path = module2/digital-assets-management-app/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
