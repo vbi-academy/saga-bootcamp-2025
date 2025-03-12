@@ -4,3 +4,6 @@
 [submodule "module2/digital-assets-management-app/lib/openzeppelin-contracts"]
 	path = module2/digital-assets-management-app/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "module2/digital-assets-app/contracts/lib/openzeppelin-contracts"]
+	path = module2/digital-assets-app/contracts/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
