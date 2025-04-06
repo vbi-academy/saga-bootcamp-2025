@@ -1,0 +1,9 @@
+[submodule "module2/digital-assets-management-app/lib/forge-std"]
+	path = module2/digital-assets-management-app/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "module2/digital-assets-management-app/lib/openzeppelin-contracts"]
+	path = module2/digital-assets-management-app/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "module2/digital-assets-app/contracts/lib/openzeppelin-contracts"]
+	path = module2/digital-assets-app/contracts/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
