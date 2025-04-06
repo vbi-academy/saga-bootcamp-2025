@@ -1,3 +1,16 @@
+## Một 
+### Mô tả bài toán: Quản Lý Tài Sản Số Trên Blockchain
+Trong hệ sinh thái Web3, người dùng sở hữu nhiều loại tài sản số như NFT, token và các tài sản on-chain khác. Tuy nhiên, việc quản lý, giao dịch và xác minh quyền sở hữu của những tài sản này thường gặp nhiều thách thức, đặc biệt là về bảo mật, tính minh bạch và trải nghiệm người dùng.
+
+### Yêu cầu bài toán:
+Xây dựng một dApp cho phép người dùng dễ dàng quản lý tài sản số của họ, bao gồm:
+
+* Lưu trữ & hiển thị tài sản: Người dùng có thể xem danh sách NFT và token mà họ sở hữu.
+* Chuyển & nhận tài sản: Cho phép gửi NFT hoặc token đến địa chỉ khác một cách an toàn.
+* Xác minh quyền sở hữu: Hỗ trợ truy vấn blockchain để kiểm tra quyền sở hữu tài sản.
+Tương tác với hợp đồng thông minh: Cung cấp khả năng mint, burn hoặc stake NFT/token theo nhu cầu.
+* Bảo mật & quyền riêng tư: Đảm bảo tài sản chỉ có thể được quản lý bởi chủ sở hữu hợp pháp thông qua ví cá nhân.
+
 ## Môi trường và Công cụ Phát triển Smart Contract
 
 Xin chào mọi người! Hôm nay, trong bài học này, mình sẽ giới thiệu đến các bạn hai công cụ quan trọng để phát triển smart contract - Cursor và Foundry. Đây là những công cụ mạnh mẽ giúp quá trình lập trình smart contract trở nên hiệu quả và chuyên nghiệp hơn. 🛠️
