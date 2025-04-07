@@ -7,3 +7,6 @@
 [submodule "module2/digital-assets-app/contracts/lib/openzeppelin-contracts"]
 	path = module2/digital-assets-app/contracts/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "saga-swap/lib/forge-std"]
+	path = saga-swap/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
