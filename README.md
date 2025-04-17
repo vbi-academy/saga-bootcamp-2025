@@ -16,4 +16,7 @@ Khóa học về Saga Protocol bao gồm 4 module chính:
    - Tạo Smart Contract ERC721 và Deploy lên Chainlet: [Lesson5.md](module2/Lesson5.md)
    - Contract cho ứng dụng quản lí tài sản số: [Lesson6.md](module2/Lesson6.md)
 
+3. **UI cho ứng dụng quản lí tài sản số**
+4. **Saga Swap**
+
 Hãy tham gia khóa học để khám phá và thực hành với từng module!
